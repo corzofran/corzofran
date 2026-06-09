@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
 
-<!--
-**corzofran/corzofran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
+¡Hola! Soy un [Tu Rol: ej. Desarrollador Web Front-End / Estudiante de Ingeniería en Sistemas] apasionado por crear soluciones tecnológicas eficientes y visualmente atractivas. 
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando en: **[Nombre de tu proyecto actual]**
+- 🌱 Estoy aprendiendo: **[Tecnología o framework que estudies ahora]**
+- 💬 Pregúntame sobre: **[Tus temas fuertes, ej. React, bases de datos, UI/UX]**
+- ⚡ Dato curioso: **[Algo breve y divertido sobre ti para romper el hielo]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Mis Habilidades y Tecnologías
+*(Tip: Puedes usar texto o buscar "badges" en internet para que se vea más visual)*
+
+- **Lenguajes:** JavaScript, Python, HTML/CSS, SQL
+- **Frameworks/Librerías:** React, Node.js, Express
+- **Herramientas:** Git, GitHub, Docker, Figma
+
+---
+
+### 📬 Conéctate conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](TU_WEB_PERSONAL)
