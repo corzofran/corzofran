@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre y Apellido] 👋
+# ¡Hola! Soy [Francisco Rafael Corzo Perez] 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rol-[Tu_Rol_ej._Full_Stack_Developer]-blue?style=for-the-badge&logo=github" alt="Rol" />
@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy un **[Tu Rol/Profesión]** con un enfoque sólido en la creación de soluciones escalables, eficientes y con un código limpio. Me apasiona transformar problemas complejos en arquitecturas de software intuitivas y de alto rendimiento. 
+Soy un **[Frontend Developer]** con un enfoque sólido en la creación de soluciones escalables, eficientes y con un código limpio. Me apasiona transformar problemas complejos en arquitecturas de software intuitivas y de alto rendimiento. 
 
 - 💼 **Experiencia/Enfoque:** Especializado en el desarrollo de [menciona 2 o 3 áreas fuertes, ej: aplicaciones web SPA, APIs RESTful, optimización de bases de datos].
 - ⚡ **Filosofía de trabajo:** Firme creyente de las buenas prácticas, el código autodocumentado y metodologías ágiles.
